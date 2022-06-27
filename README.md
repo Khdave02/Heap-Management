@@ -1,5 +1,5 @@
 # Heap-Management
-Heap Management using first fit, best fit and buddy system and Implementation of reference counting and Mark &amp; Sweep Garbage Collector using C/C++ 
+Implementation of Heap Management System using first fit, best fit and buddy system using C.
 
 ## First Fit && Best Fit
 
